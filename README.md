@@ -8,19 +8,19 @@ Built entirely in **IWBasic 2.5**.
 
 ---
 
-## ðŸŒŸ Visual & Graphics Features
+##  Visual & Graphics Features
 
-* **3D Anamorphic Morph Engine:** Smooth vertex-interpolated transitions across 9 3D geometry target shapes (Board, Cube, Sphere, Hyperboloid, MÃ¶bius Strip, Saddle Shell, Octahedron, Starburst, Torus).
-* **Software Rasterizer:** Renders to a 320Ã—240 32-bit DIB section backbuffer (`CreateDIBSection`), stretched to viewport using `StretchBlt`.
+* **3D Anamorphic Morph Engine:** Smooth vertex-interpolated transitions across 9 3D geometry target shapes (Board, Cube, Sphere, Hyperboloid, Möbius Strip, Saddle Shell, Octahedron, Starburst, Torus).
+* **Software Rasterizer:** Renders to a 320×240 32-bit DIB section backbuffer (`CreateDIBSection`), stretched to viewport using `StretchBlt`.
 * **Software Post-Processing Pass:**
   * **CRT Scanlines:** Interlaced line darkening filter.
   * **Audio-Driven Chromatic Aberration:** RGB channel split triggered on drum hits.
   * **Exposure Flashes:** Bloom bursts on 8-bar section turnarounds.
-* **Custom Bitmap Font Blitter:** Gradient-filled 32Ã—24 font rendering with dynamic audio-reactive spring physics.
+* **Custom Bitmap Font Blitter:** Gradient-filled 32×24 font rendering with dynamic audio-reactive spring physics.
 
 ---
 
-## ðŸŽµ Hybrid Audio Architecture
+## 🎵 Hybrid Audio Architecture
 
 * **Engine:** Hybrid DirectSound PCM + WinMM General MIDI (`winmm.lib` / `dsound.lib`).
 * **Timing:** High-precision multimedia timer thread (`timeSetEvent` set to 10ms resolution at 165 BPM).
@@ -31,7 +31,7 @@ Built entirely in **IWBasic 2.5**.
 
 ---
 
-## ðŸŽ¹ Keyboard Controls
+## 🎹 Keyboard Controls
 
 | Key | Function |
 | :---: | :--- |
@@ -42,4 +42,6 @@ Built entirely in **IWBasic 2.5**.
 | **`D`** | Toggle Mute Low Ambient Drone |
 | **`M`** | Toggle Manual / Auto Arranger Mode |
 | **`ESC`** | Exit Intro |
+
+---
 
