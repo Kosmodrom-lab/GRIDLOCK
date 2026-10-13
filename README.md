@@ -1,6 +1,3 @@
----> [Gridlock.zip](https://github.com/user-attachments/files/32701239/Gridlock.zip)
-
-
 # GRIDLOCK INTRO
 
 A native Win32 demoscene intro featuring realtime 3D vector shape-morphing, a software post-processing pipeline, custom bitmap typography, and a 165 BPM Minimal Dark Drum & Bass hybrid audio engine.
@@ -45,4 +42,3 @@ Built entirely in **IWBasic 2.5**.
 | **`ESC`** | Exit Intro |
 
 ---
-

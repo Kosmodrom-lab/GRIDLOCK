@@ -1,0 +1,47 @@
+     @@@@@@@  @@@@@@@  @@@ @@@@@@@  @@@       @@@@@@   @@@@@@@ @@@  @@@ 
+    !@@       @@!  @@@ @@! @@!  @@@ @@!      @@!  @@@ !@@      @@!  !@@ 
+    !@! @!@!@ @!@!!@!  !!@ @!@  !@! @!!      @!@  !@! !@!      @!@@!@!  
+    :!!   !!: !!: :!!  !!: !!:  !!! !!:      !!:  !!! :!!      !!: :!!  
+     :: :: :   :   : : :   :: :  :  : ::.: :  : :. :   :: :: :  :   ::: 
+                                                                     
+  .-----------------------------------------------------------------------.
+  | RELEASE INFO                                                          |
+  `-----------------------------------------------------------------------'
+   TITLE......... GRIDLOCK INTRO
+   TYPE.......... DEMOSCENE REALTIME 3D / AUDIO INTRO
+   RELEASE DATE.. SEPTEMBER 2026
+   PLATFORM...... WINDOWS 32-BIT (WIN7 / WIN10 / WIN11)
+   LANGUAGE...... IWBASIC 2.5
+   AUDIO ENGINE.. DIRECTSOUND PCM + WINMM GENERAL MIDI SYNTH
+   BPM........... 165 BPM (MINIMAL DARK D&B / NOIR JUNGLE)
+ 
+  .-----------------------------------------------------------------------.
+  | TECHNICAL HIGHLIGHTS                                                  |
+  `-----------------------------------------------------------------------'
+   [+] CONTINUOUS 3D MORPH ENGINE (9 VECTOR TARGET SHAPES)
+   [+] Dynamic 32-bit DIB Backbuffer software rasterizer (320x240 @ 60 FPS)
+   [+] Custom 32x24 Gradient & Vector Font Blitter
+   [+] Precision Multimedia Timer Thread (10ms resolution, `timeSetEvent`)
+   [+] Hybrid Audio: Dual-channel GM Synth Bass + RAM-mapped 16-bit PCM Breaks
+   [+] Realtime Software Post-Processor (CRT Scanlines, RGB Split, Flash)
+ 
+  .-----------------------------------------------------------------------.
+  | CONTROLS & SHORTCUTS                                                  |
+  `-----------------------------------------------------------------------'
+   [K].......... Mute / Unmute Kick Drum
+   [S].......... Mute / Unmute Snare & Rim Rolls
+   [H].......... Mute / Unmute Hi-Hats
+   [B].......... Mute / Unmute Sub-Bass Glides
+   [D].......... Mute / Unmute Low Ambient Drone
+   [M].......... Toggle Manual / Auto Arranger Mode
+   [ESC]........ Exit Intro
+ 
+  .-----------------------------------------------------------------------.
+  | GREETINGS & RESPECTS                                                  |
+  `-----------------------------------------------------------------------'
+   Greets to all demoscene coders, IWBasic enthusiasts, tracker heads,
+   and Win32 low-level graphics tinkerers worldwide!
+ 
+  .-----------------------------------------------------------------------.
+  | END OF TRANSMISSION                                                   |
+  `-----------------------------------------------------------------------'
